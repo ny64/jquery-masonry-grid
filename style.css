@@ -1,0 +1,22 @@
+html, body {
+  background-color: cadetblue;
+  font-family: "Trebuchet MS", sans-serif;
+  line-height: 1;
+  margin: 6px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 0 20px;
+}
+
+.my-masonry-grid-item {
+  background-color: #bbe6e8;
+  color: cadetblue;
+  font-size: 120px;
+  margin: 0 6px 12px;
+  padding: 0 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
