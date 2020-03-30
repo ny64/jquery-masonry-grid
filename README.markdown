@@ -1,7 +1,7 @@
 jquery-masonry-grid
 -------------------
 
-Simple, responsive and lightweight jquery-masonry-grid.
+Simple, responsive and lightweight Masonry Grid jQuery Plugin.
 
 #### Installation
 
