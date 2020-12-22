@@ -1,1 +1,2 @@
-dist/*.js linguist-language=Javascript
+dist/jquery.masonryGrid.js linguist-language=Javascript
+*.html linguisy-language=Javascript
