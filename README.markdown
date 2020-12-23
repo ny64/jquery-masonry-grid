@@ -16,7 +16,7 @@ Add the script before closing the `<body>` tag (make sure you use the right path
 #### Usage
 There is a demo file `demo/index.html` in the repository you can use as reference.
 These options are the default options so this usage would be a little redundant.
-```
+```js
 <script>
     jQuery(document).ready(function($) {
         $('.my-masonry-grid').masonryGrid({
