@@ -4,10 +4,9 @@
 <title>Masonry Grid DEMO</title>
 <!-- CSS -->
 <link href="style.css" rel="stylesheet" type="text/css"/>
-<link href="dist/style.min.css" rel="stylesheet" type="text/css"/>
 <!-- Javascript -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="dist/jquery.masonryGrid.js"></script>
+<script src="../dist/jquery.masonryGrid.js"></script>
 </head>
 <body>
 <div class="container">
@@ -50,6 +49,7 @@
     jQuery(document).ready(function($) {
         $('.my-masonry-grid').masonryGrid({
             'columns': 5,
+            'breakpoint': 800
         });
     });
 </script>
