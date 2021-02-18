@@ -1,7 +1,7 @@
 /**
 * jquery-masonry-grid 1.0.0 by @ny64
 * Author: Peter Breitzler
-* URL: https://github.com/ny64/jquery-masonry-gird
+* URL: https://github.com/ny64/jquery-masonry-grid
 * License: MIT
 */
 
