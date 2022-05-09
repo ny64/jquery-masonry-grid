@@ -3,6 +3,8 @@ jquery-masonry-grid
 
 Simple, responsive and lightweight Masonry Grid jQuery Plugin.
 
+![jquery-masonry-grid GIF](resources/demo.gif)
+
 #### Installation
 
 Add the script before closing the `<body>` tag (make sure you use the right path):

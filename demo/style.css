@@ -5,6 +5,11 @@ html, body {
   margin: 6px;
 }
 
+h1 {
+    font-size: 40px;
+    color: #bbe6e8;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1000px;
